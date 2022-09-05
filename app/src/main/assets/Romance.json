@@ -1,0 +1,396 @@
+{
+  "movies": [
+    {
+      "id": 91,
+      "title": "Gattaca",
+      "year": "1997",
+      "runtime": "106",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "director": "Andrew Niccol",
+      "actors": "Ethan Hawke, Uma Thurman, Gore Vidal, Xander Berkeley",
+      "plot": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQxOTc0MzMtZmRlOS00OWQ5LWI2ZDctOTAwNmMwOTYxYzlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "id": 92,
+      "title": "Silver Linings Playbook",
+      "year": "2012",
+      "runtime": "122",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "director": "David O. Russell",
+      "actors": "Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver",
+      "plot": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 93,
+      "title": "Alice in Wonderland",
+      "year": "2010",
+      "runtime": "108",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "director": "Tim Burton",
+      "actors": "Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",
+      "plot": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg"
+    },
+    {
+      "id": 94,
+      "title": "Gandhi",
+      "year": "1982",
+      "runtime": "191",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "director": "Richard Attenborough",
+      "actors": "Ben Kingsley, Candice Bergen, Edward Fox, John Gielgud",
+      "plot": "Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+    },
+    {
+      "id": 95,
+      "title": "Pacific Rim",
+      "year": "2013",
+      "runtime": "131",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "director": "Guillermo del Toro",
+      "actors": "Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi",
+      "plot": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 96,
+      "title": "Kiss Kiss Bang Bang",
+      "year": "2005",
+      "runtime": "103",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "director": "Shane Black",
+      "actors": "Robert Downey Jr., Val Kilmer, Michelle Monaghan, Corbin Bernsen",
+      "plot": "A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3._V1_SX300.jpg"
+    },
+    {
+      "id": 97,
+      "title": "The Quiet American",
+      "year": "2002",
+      "runtime": "101",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "director": "Phillip Noyce",
+      "actors": "Michael Caine, Brendan Fraser, Do Thi Hai Yen, Rade Serbedzija",
+      "plot": "An older British reporter vies with a young U.S. doctor for the affections of a beautiful Vietnamese woman.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMjE2NTUxNTE3Nl5BMl5BanBnXkFtZTYwNTczMTg5._V1_SX300.jpg"
+    },
+    {
+      "id": 98,
+      "title": "Cloud Atlas",
+      "year": "2012",
+      "runtime": "172",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
+      "actors": "Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving",
+      "plot": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 99,
+      "title": "The Impossible",
+      "year": "2012",
+      "runtime": "114",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "J.A. Bayona",
+      "actors": "Naomi Watts, Ewan McGregor, Tom Holland, Samuel Joslin",
+      "plot": "The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NTA3NzQ5Nl5BMl5BanBnXkFtZTcwOTYxNjY0OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 100,
+      "title": "All Quiet on the Western Front",
+      "year": "1930",
+      "runtime": "136",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "director": "Lewis Milestone",
+      "actors": "Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy",
+      "plot": "A young soldier faces profound disillusionment in the soul-destroying horror of World War I.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM5OTg2NDY1NF5BMl5BanBnXkFtZTcwNTQ4MTMwNw@@._V1_SX300.jpg"
+    },
+    {
+      "id": 101,
+      "title": "The English Patient",
+      "year": "1996",
+      "runtime": "162",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "director": "Anthony Minghella",
+      "actors": "Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",
+      "plot": "At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg2OTcxNDE0OF5BMl5BanBnXkFtZTgwOTg2MDM0MDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 102,
+      "title": "Dallas Buyers Club",
+      "year": "2013",
+      "runtime": "117",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "director": "Jean-Marc Vallée",
+      "actors": "Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare",
+      "plot": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 103,
+      "title": "Frida",
+      "year": "2002",
+      "runtime": "123",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "director": "Julie Taymor",
+      "actors": "Salma Hayek, Mía Maestro, Alfred Molina, Antonio Banderas",
+      "plot": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTMyODUyMDY1OV5BMl5BanBnXkFtZTYwMDA2OTU3._V1_SX300.jpg"
+    },
+    {
+      "id": 104,
+      "title": "Before Sunrise",
+      "year": "1995",
+      "runtime": "105",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Richard Linklater",
+      "actors": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl",
+      "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@._V1_SX300.jpg"
+    },
+    {
+      "id": 105,
+      "title": "The Rum Diary",
+      "year": "2011",
+      "runtime": "120",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Bruce Robinson",
+      "actors": "Johnny Depp, Aaron Eckhart, Michael Rispoli, Amber Heard",
+      "plot": "American journalist Paul Kemp takes on a freelance job in Puerto Rico for a local newspaper during the 1960s and struggles to find a balance between island culture and the expatriates who live there.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5ODA4MjYxM15BMl5BanBnXkFtZTcwMTM3NTE5Ng@@._V1_SX300.jpg"
+    },
+    {
+      "id": 106,
+      "title": "The Last Samurai",
+      "year": "2003",
+      "runtime": "154",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "director": "Edward Zwick",
+      "actors": "Ken Watanabe, Tom Cruise, William Atherton, Chad Lindberg",
+      "plot": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg"
+    },
+    {
+      "id": 107,
+      "title": "Chinatown",
+      "year": "1974",
+      "runtime": "130",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Roman Polanski",
+      "actors": "Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez",
+      "plot": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyNDE5NzItMjAwNC00MGQxLTllNjktZGIzMWFkZjA3OWQ0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+    },
+    {
+      "id": 108,
+      "title": "Calvary",
+      "year": "2014",
+      "runtime": "102",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "John Michael McDonagh",
+      "actors": "Brendan Gleeson, Chris O'Dowd, Kelly Reilly, Aidan Gillen",
+      "plot": "After he is threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 109,
+      "title": "Before Sunset",
+      "year": "2004",
+      "runtime": "80",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Richard Linklater",
+      "actors": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès",
+      "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX300.jpg"
+    },
+    {
+      "id": 110,
+      "title": "Spirited Away",
+      "year": "2001",
+      "runtime": "125",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "director": "Hayao Miyazaki",
+      "actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô",
+      "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjYxMDcyMzIzNl5BMl5BanBnXkFtZTYwNDg2MDU3._V1_SX300.jpg"
+    },
+    {
+      "id": 111,
+      "title": "Indochine",
+      "year": "1992",
+      "runtime": "159",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Régis Wargnier",
+      "actors": "Catherine Deneuve, Vincent Perez, Linh Dan Pham, Jean Yanne",
+      "plot": "This story is set in 1930, at the time when French colonial rule in Indochina is ending. A widowed French woman who works in the rubber fields, raises a Vietnamese princess as if she was ...",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1MTkzNzA3NF5BMl5BanBnXkFtZTYwNTI2MzU5._V1_SX300.jpg"
+    },
+    {
+      "id": 112,
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": "2014",
+      "runtime": "119",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "director": "Alejandro G. Iñárritu",
+      "actors": "Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe",
+      "plot": "Illustrated upon the progress of his latest Broadway play, a former popular actor's struggle to cope with his current life as a wasted actor is shown.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 113,
+      "title": "Boyhood",
+      "year": "2014",
+      "runtime": "165",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Richard Linklater",
+      "actors": "Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater",
+      "plot": "The life of Mason, from early childhood to his arrival at college.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 114,
+      "title": "12 Angry Men",
+      "year": "1957",
+      "runtime": "96",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Sidney Lumet",
+      "actors": "Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall",
+      "plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 115,
+      "title": "The Imitation Game",
+      "year": "2014",
+      "runtime": "114",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Morten Tyldum",
+      "actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear",
+      "plot": "During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 116,
+      "title": "Interstellar",
+      "year": "2014",
+      "runtime": "169",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 117,
+      "title": "Big Nothing",
+      "year": "2006",
+      "runtime": "86",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Jean-Baptiste Andrea",
+      "actors": "David Schwimmer, Simon Pegg, Alice Eve, Natascha McElhone",
+      "plot": "A frustrated, unemployed teacher joining forces with a scammer and his girlfriend in a blackmailing scheme.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NTc2NjYwOV5BMl5BanBnXkFtZTcwMzk5OTY0MQ@@._V1_SX300.jpg"
+    }
+  ]
+}

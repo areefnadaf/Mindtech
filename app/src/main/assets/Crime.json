@@ -1,0 +1,287 @@
+{
+  "movies": [
+    {
+      "id": 42,
+      "title": "The Hangover",
+      "year": "2009",
+      "runtime": "100",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Todd Phillips",
+      "actors": "Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha",
+      "plot": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MDA1MTYwMF5BMl5BanBnXkFtZTcwMDcxMzA1Mg@@._V1_SX300.jpg"
+    },
+    {
+      "id": 43,
+      "title": "The Great Beauty",
+      "year": "2013",
+      "runtime": "141",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Paolo Sorrentino",
+      "actors": "Toni Servillo, Carlo Verdone, Sabrina Ferilli, Carlo Buccirosso",
+      "plot": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Gran Torino",
+      "year": "2008",
+      "runtime": "116",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Clint Eastwood",
+      "actors": "Clint Eastwood, Christopher Carley, Bee Vang, Ahney Her",
+      "plot": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTQyMTczMTAxMl5BMl5BanBnXkFtZTcwOTc1ODE0Mg@@._V1_SX300.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Mary and Max",
+      "year": "2009",
+      "runtime": "92",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Adam Elliot",
+      "actors": "Toni Collette, Philip Seymour Hoffman, Barry Humphries, Eric Bana",
+      "plot": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Flight",
+      "year": "2012",
+      "runtime": "138",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Robert Zemeckis",
+      "actors": "Nadine Velazquez, Denzel Washington, Carter Cabassa, Adam C. Edwards",
+      "plot": "An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 47,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1975",
+      "runtime": "133",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Milos Forman",
+      "actors": "Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown",
+      "plot": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmJkODkwOTItZThjZC00MTE0LWIxNzQtYTM3MmQwMGI1OWFiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Requiem for a Dream",
+      "year": "2000",
+      "runtime": "102",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Darren Aronofsky",
+      "actors": "Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",
+      "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzODMzODYwOF5BMl5BanBnXkFtZTcwODM2NjA2NQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 49,
+      "title": "The Truman Show",
+      "year": "1998",
+      "runtime": "103",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Peter Weir",
+      "actors": "Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone",
+      "plot": "An insurance salesman/adjuster discovers his entire life is actually a television show.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+    },
+    {
+      "id": 50,
+      "title": "The Artist",
+      "year": "2011",
+      "runtime": "100",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "director": "Michel Hazanavicius",
+      "actors": "Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",
+      "plot": "A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 51,
+      "title": "Forrest Gump",
+      "year": "1994",
+      "runtime": "142",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Robert Zemeckis",
+      "actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+      "plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+    },
+    {
+      "id": 52,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": "2013",
+      "runtime": "161",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "director": "Peter Jackson",
+      "actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
+      "plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 53,
+      "title": "Vicky Cristina Barcelona",
+      "year": "2008",
+      "runtime": "96",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Woody Allen",
+      "actors": "Rebecca Hall, Scarlett Johansson, Christopher Evan Welch, Chris Messina",
+      "plot": "Two girlfriends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NDQ4MTg2MV5BMl5BanBnXkFtZTcwNDUzNjU3MQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 54,
+      "title": "Slumdog Millionaire",
+      "year": "2008",
+      "runtime": "120",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Danny Boyle, Loveleen Tandan",
+      "actors": "Dev Patel, Saurabh Shukla, Anil Kapoor, Rajendranath Zutshi",
+      "plot": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\"",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTU2NTA5NzI0N15BMl5BanBnXkFtZTcwMjUxMjYxMg@@._V1_SX300.jpg"
+    },
+    {
+      "id": 55,
+      "title": "Lost in Translation",
+      "year": "2003",
+      "runtime": "101",
+      "genres": [
+        "Drama"
+      ],
+      "director": "Sofia Coppola",
+      "actors": "Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe",
+      "plot": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg"
+    },
+    {
+      "id": 56,
+      "title": "Match Point",
+      "year": "2005",
+      "runtime": "119",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "director": "Woody Allen",
+      "actors": "Jonathan Rhys Meyers, Alexander Armstrong, Paul Kaye, Matthew Goode",
+      "plot": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzNzY4MzE5NF5BMl5BanBnXkFtZTcwMzQ1MDMzMQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 57,
+      "title": "Psycho",
+      "year": "1960",
+      "runtime": "109",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Alfred Hitchcock",
+      "actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
+      "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "id": 58,
+      "title": "North by Northwest",
+      "year": "1959",
+      "runtime": "136",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "director": "Alfred Hitchcock",
+      "actors": "Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",
+      "plot": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMjQwMTQ0MzgwNl5BMl5BanBnXkFtZTgwNjc4ODE4MzE@._V1_SX300.jpg"
+    },
+    {
+      "id": 59,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": "2008",
+      "runtime": "89",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "director": "Eric Darnell, Tom McGrath",
+      "actors": "Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",
+      "plot": "The animals try to fly back to New York City, but crash-land on an African wildlife refuge, where Alex is reunited with his parents.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 60,
+      "title": "Despicable Me 2",
+      "year": "2013",
+      "runtime": "98",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "director": "Pierre Coffin, Chris Renaud",
+      "actors": "Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove",
+      "plot": "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 61,
+      "title": "Downfall",
+      "year": "2004",
+      "runtime": "156",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "director": "Oliver Hirschbiegel",
+      "actors": "Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes",
+      "plot": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1OTI1MjE2Nl5BMl5BanBnXkFtZTcwMTEwMzc4NA@@._V1_SX300.jpg"
+    }
+  ]
+}

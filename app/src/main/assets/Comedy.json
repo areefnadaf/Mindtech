@@ -1,0 +1,222 @@
+{
+  "movies": [
+    {
+      "id": 27,
+      "title": "American Beauty",
+      "year": "1999",
+      "runtime": "122",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "director": "Sam Mendes",
+      "actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+      "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTI5NzYyNV5BMl5BanBnXkFtZTgwNTkxNTYxMTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Snatch",
+      "year": "2000",
+      "runtime": "102",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Guy Ritchie",
+      "actors": "Benicio Del Toro, Dennis Farina, Vinnie Jones, Brad Pitt",
+      "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Midnight Express",
+      "year": "1978",
+      "runtime": "121",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Alan Parker",
+      "actors": "Brad Davis, Irene Miracle, Bo Hopkins, Paolo Bonacelli",
+      "plot": "Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMDA5MzkyOF5BMl5BanBnXkFtZTgwOTYwNTcxMTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "runtime": "154",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "director": "Quentin Tarantino",
+      "actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
+      "plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": "1998",
+      "runtime": "107",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Guy Ritchie",
+      "actors": "Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham",
+      "plot": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Lucky Number Slevin",
+      "year": "2006",
+      "runtime": "110",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Paul McGuigan",
+      "actors": "Josh Hartnett, Bruce Willis, Lucy Liu, Morgan Freeman",
+      "plot": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss. Slevin is under constant surveillance by relentless Detective Brikowski as well as the infamous assassin Goodkat and finds himself having to hatch his own ingenious plot to get them before they get him.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc1OTEwMTk4OF5BMl5BanBnXkFtZTcwMTEzMDQzMQ@@._V1_SX300.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Rear Window",
+      "year": "1954",
+      "runtime": "112",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Alfred Hitchcock",
+      "actors": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter",
+      "plot": "A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Pan's Labyrinth",
+      "year": "2006",
+      "runtime": "118",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "director": "Guillermo del Toro",
+      "actors": "Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones",
+      "plot": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+      "posterUrl": ""
+    },
+    {
+      "id": 35,
+      "title": "Shutter Island",
+      "year": "2010",
+      "runtime": "138",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Martin Scorsese",
+      "actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley, Max von Sydow",
+      "plot": "In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_SX300.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Reservoir Dogs",
+      "year": "1992",
+      "runtime": "99",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "Quentin Tarantino",
+      "actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+      "plot": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE5ZDJiZTQtOGE2YS00ZTc5LTk0OGUtOTg2NjdjZmVlYzE2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+    },
+    {
+      "id": 37,
+      "title": "The Shining",
+      "year": "1980",
+      "runtime": "146",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "director": "Stanley Kubrick",
+      "actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+      "plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BODMxMjE3NTA4Ml5BMl5BanBnXkFtZTgwNDc0NTIxMDE@._V1_SX300.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Midnight in Paris",
+      "year": "2011",
+      "runtime": "94",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "director": "Woody Allen",
+      "actors": "Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy",
+      "plot": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Les Misérables",
+      "year": "2012",
+      "runtime": "158",
+      "genres": [
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
+      "director": "Tom Hooper",
+      "actors": "Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried",
+      "plot": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1_SX300.jpg"
+    },
+    {
+      "id": 40,
+      "title": "L.A. Confidential",
+      "year": "1997",
+      "runtime": "138",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Curtis Hanson",
+      "actors": "Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell",
+      "plot": "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWEwNDhhNWUtYWMzNi00ZTNhLWFiZDAtMjBjZmJhMTU0ZTY2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Moneyball",
+      "year": "2011",
+      "runtime": "133",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "director": "Bennett Miller",
+      "actors": "Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright",
+      "plot": "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg"
+    }
+  ]
+}
