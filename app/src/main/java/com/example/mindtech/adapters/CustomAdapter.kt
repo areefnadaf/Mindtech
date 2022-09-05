@@ -37,26 +37,7 @@ class CustomAdapter(private val dataset: List<Movie>?) :
 
     }
 
-    @RequiresApi(Build.VERSION_CODES.N)
-    fun solution(numbers: MutableList<String>): Boolean {
 
-        var numbers1: List<String> = numbers
-
-        if (numbers.size == 1) {
-
-            return true
-        }
-
-
-        for (i = 0; i < numbers.size;i++) {
-
-
-            var b = numbers.asSequence().filter { s -> s.startsWith(num) }
-
-        }
-
-
-    }
 
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
